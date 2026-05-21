@@ -1,0 +1,22 @@
+{
+  "name": "verimail",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run tests/engine",
+    "test:all": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.0",
+    "@zootools/email-spell-checker": "^1.5.2",
+    "disposable-email-domains-js": "^1.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^2.0.0",
+    "wrangler": "^4.0.0"
+  }
+}
