@@ -20,6 +20,8 @@ progress:
 
 See: .planning/PROJECT.md (updated 2026-05-21)
 
+**Project path:** `C:\Users\henrique.oliveira\Documents\Dev\Pessoal\Projetos\VeriMail`
+
 **Core value:** Reduzir bounces hard abaixo de 3% para que disparos no RD Station não causem bloqueio de conta — sem custo de infraestrutura
 **Current focus:** Phase 1 — Validator Core + Foundation
 
